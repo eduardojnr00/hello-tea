@@ -1,5 +1,5 @@
 {
-  "name": "hello-tea-npm",
+  "name": "hello-tea-00",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "eduardojnr00cripto",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/eduardojnr00/hello-tea"
+  }
 }
