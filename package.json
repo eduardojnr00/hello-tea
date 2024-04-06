@@ -1,10 +1,10 @@
 {
-  "name": "hello-tea-final",
+  "name": "hello-tea-edjnr",
   "version": "1.0.0",
   "description": "My first NPM Package",
   "dependencies": {
-    "express": "^4.19.2",
-    "lodash": "^4.17.21"
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0"
   },
   "repository": {
     "type": "github",
@@ -14,4 +14,3 @@
   "author": "eduardojnr00cripto",
   "license": "MIT"
 }
-
