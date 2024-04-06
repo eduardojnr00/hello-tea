@@ -1,8 +1,17 @@
-const _ = require('lodash');
 
-function main() {
-    const message = 'Hello, Tea';
-    console.log(_.toUpper(message));
-}
+console.log("Hello, Tea!");
 
-main();
+// Dependências fictícias
+const express = require('express');
+const lodash = require('lodash');
+
+
+const numbers = [1, 2, 3, 4, 5];
+const sum = lodash.sum(numbers);
+console.log("Soma dos números:", sum);
+
+
+const auxiliar = require('auxiliar');
+
+// Utiliza uma função do outro projeto
+auxiliar.print();

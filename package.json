@@ -1,19 +1,17 @@
 {
-  "name": "hello-tea-00",
+  "name": "hello-tea-final",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "My first NPM Package",
   "dependencies": {
+    "express": "^4.19.2",
     "lodash": "^4.17.21"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "eduardojnr00cripto",
-  "license": "MIT",
   "repository": {
     "type": "github",
     "url": "https://github.com/eduardojnr00/hello-tea"
-  }
+  },
+  "main": "index.js",
+  "author": "eduardojnr00cripto",
+  "license": "MIT"
 }
+
